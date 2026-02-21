@@ -12,6 +12,11 @@ Lawyer turned management consultant and coach with a strong interest in making l
 
 >**Douglas Adams**, author of *Hitchhiker's Guide to the Galaxy*  
 
-### Pinned Projects
+### Pinned Projects - Forthcoming
+
+
+
+![js](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript)
+
 
 
